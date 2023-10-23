@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshthakur25&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshthakur25" /> </p>
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently compleate **Django Framework + React**
 
 - 👨‍💻 All of my projects are available at [https://rushi.prasadcomputer.com/](https://rushi.prasadcomputer.com/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python + JavaScript**
 
 - 📫 How to reach me **rushikeshthakur32@gmail.com**
 
