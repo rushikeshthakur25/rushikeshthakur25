@@ -5,15 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshthakur25&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshthakur25" /> </p>
 
+🔭 I’m currently working on **Blog App Using React & AppWrite**
+
 - 🌱 I’m currently compleate **Django Framework + React**
 
-- 👨‍💻 All of my projects are available at [https://rushi.prasadcomputer.com/](https://rushi.prasadcomputer.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/rushikeshthakur25/](https://github.com/rushikeshthakur25/)
 
 - 💬 Ask me about **Python + JavaScript**
 
 - 📫 How to reach me **rushikeshthakur32@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I Love to Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
